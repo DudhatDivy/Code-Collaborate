@@ -1,6 +1,6 @@
-# Code Sync — Real-Time Collaborative Code Editor
+# Code Collaborate — Real-Time Collaborative Code Editor
 
-Code Sync is a powerful, production-ready real-time collaborative IDE built with TypeScript. It lets teams and learners instantly create or join room-based sessions to edit code together, run programs in 70+ languages, and collaborate naturally with built-in chat, video calls, live cursor presence, AI code generation, file management, and a drawing canvas — all from the browser.
+Code Collaborate is a powerful, production-ready real-time collaborative IDE built with TypeScript. It lets teams and learners instantly create or join room-based sessions to edit code together, run programs in 70+ languages, and collaborate naturally with built-in chat, video calls, live cursor presence, AI code generation, file management, and a drawing canvas — all from the browser.
 
 ## 🔮 Features
 
